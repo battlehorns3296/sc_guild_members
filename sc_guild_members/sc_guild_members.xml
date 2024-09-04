@@ -1,0 +1,12 @@
+<extension type="plugin" version="3.9" group="content">
+    <name>SC Guild Armada Lusitana Membros</name>
+    <version>1.0.0</version>
+    <author>Josilv</author>
+    <description>Plugin para exibir membros da guilda Armada Lusitana do Star Citizen.</description>
+    <files>
+        <filename plugin="sc_guild_members">sc_guild_members.php</filename>
+    </files>
+    <config>
+        <!-- // -->
+    </config>
+</extension>
